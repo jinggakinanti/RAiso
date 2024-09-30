@@ -1,0 +1,429 @@
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\FinalProject.dll.config
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\FinalProject.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\FinalProject.pdb
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\csc.exe
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\csc.exe.config
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\csc.rsp
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\csi.exe
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\csi.exe.config
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\csi.rsp
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.AppContext.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Console.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Net.Http.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\vbc.exe
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\vbc.exe.config
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\vbc.rsp
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\EntityFramework.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\EntityFramework.SqlServer.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\EntityFramework.xml
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\EntityFramework.SqlServer.xml
+C:\Users\adila\source\repos\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adila\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\adila\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\adila\source\repos\FinalProject\FinalProject\obj\Debug\FinalPro.8C09D514.Up2Date
+C:\Users\adila\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+C:\Users\adila\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\FinalProject.dll.config
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\FinalProject.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\FinalProject.pdb
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\csc.exe
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\csc.exe.config
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\csc.rsp
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\csi.exe
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\csi.exe.config
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\csi.rsp
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.AppContext.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Console.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.IO.Compression.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Net.Http.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Net.Sockets.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.ValueTuple.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Xml.XPath.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\vbc.exe
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\vbc.exe.config
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\vbc.rsp
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\EntityFramework.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\EntityFramework.SqlServer.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\EntityFramework.xml
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\EntityFramework.SqlServer.xml
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+C:\Kuliah\SEMESTER 4\AoL PSD\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\FinalProject\FinalProject\bin\FinalProject.dll.config
+D:\FinalProject\FinalProject\bin\FinalProject.dll
+D:\FinalProject\FinalProject\bin\FinalProject.pdb
+D:\FinalProject\FinalProject\bin\roslyn\csc.exe
+D:\FinalProject\FinalProject\bin\roslyn\csc.exe.config
+D:\FinalProject\FinalProject\bin\roslyn\csc.rsp
+D:\FinalProject\FinalProject\bin\roslyn\csi.exe
+D:\FinalProject\FinalProject\bin\roslyn\csi.exe.config
+D:\FinalProject\FinalProject\bin\roslyn\csi.rsp
+D:\FinalProject\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FinalProject\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FinalProject\FinalProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FinalProject\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FinalProject\FinalProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.AppContext.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Console.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.IO.Compression.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Net.Http.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Net.Sockets.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.ValueTuple.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Xml.XPath.dll
+D:\FinalProject\FinalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FinalProject\FinalProject\bin\roslyn\vbc.exe
+D:\FinalProject\FinalProject\bin\roslyn\vbc.exe.config
+D:\FinalProject\FinalProject\bin\roslyn\vbc.rsp
+D:\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe
+D:\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+D:\FinalProject\FinalProject\bin\EntityFramework.dll
+D:\FinalProject\FinalProject\bin\EntityFramework.SqlServer.dll
+D:\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FinalProject\FinalProject\bin\EntityFramework.xml
+D:\FinalProject\FinalProject\bin\EntityFramework.SqlServer.xml
+D:\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+D:\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\FinalProject\FinalProject\obj\Debug\FinalPro.8C09D514.Up2Date
+D:\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+D:\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\FinalProject.dll.config
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\FinalProject.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\FinalProject.pdb
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\csc.exe
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\csc.exe.config
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\csc.rsp
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\csi.exe
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\csi.exe.config
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\csi.rsp
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.AppContext.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Console.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.IO.Compression.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Net.Http.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Net.Sockets.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.ValueTuple.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Xml.XPath.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\vbc.exe
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\vbc.exe.config
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\vbc.rsp
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\EntityFramework.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\EntityFramework.SqlServer.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\EntityFramework.xml
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\EntityFramework.SqlServer.xml
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.ReportSource.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.Shared.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\stdole.dll
+C:\Kuliah\SEMESTER 4\FinalProject\FinalProject\bin\CrystalDecisions.Web.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\FinalProject.dll.config
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\FinalProject.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\FinalProject.pdb
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\csc.exe
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\csc.exe.config
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\csc.rsp
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\csi.exe
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\csi.exe.config
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\csi.rsp
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.AppContext.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Console.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.IO.Compression.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Net.Http.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Net.Sockets.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.ValueTuple.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Xml.XPath.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\vbc.exe
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\vbc.exe.config
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\vbc.rsp
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\VBCSCompiler.exe
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.ReportSource.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.Shared.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.Web.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\EntityFramework.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\EntityFramework.SqlServer.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\stdole.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\EntityFramework.xml
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\EntityFramework.SqlServer.xml
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\obj\Debug\FinalProject.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (2)\FinalProject\obj\Debug\FinalProject.pdb
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\FinalProject.dll.config
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\FinalProject.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\FinalProject.pdb
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\csc.exe
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\csc.exe.config
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\csc.rsp
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\csi.exe
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\csi.exe.config
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\csi.rsp
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.AppContext.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Console.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.IO.Compression.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Net.Http.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Net.Sockets.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.ValueTuple.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Xml.XPath.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\vbc.exe
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\vbc.exe.config
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\vbc.rsp
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\VBCSCompiler.exe
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.ReportSource.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.Shared.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.Web.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\EntityFramework.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\EntityFramework.SqlServer.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\stdole.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\EntityFramework.xml
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\EntityFramework.SqlServer.xml
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\obj\Debug\FinalProject.dll
+C:\Kuliah\SEMESTER 4\FinalProject - Copy (4) - Copy\FinalProject\obj\Debug\FinalProject.pdb
